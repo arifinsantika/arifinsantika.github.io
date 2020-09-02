@@ -1,3 +1,3 @@
-# bajatulo.github.io
+# arifinsantika.github.io
 
-[https://bajatulo.github.io/](https://bajatulo.github.io/)
+[https://arifinsantika.github.io/](https://arifinsantika.github.io/)
