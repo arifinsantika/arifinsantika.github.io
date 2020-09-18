@@ -16,6 +16,7 @@
         }
     });
     let productDataTable = $('#product-table').DataTable({
+        "scrollX": true,
         "columns": [
             {"orderable": true, "searchable": true},
             {"orderable": false, "searchable": false},
